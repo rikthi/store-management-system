@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Input Styles */
+.input-field {
+  @apply w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 transition;
+}
+
+/* Custom Button Styles */
+.btn-primary {
+  @apply w-full bg-green-600 text-white p-3 rounded-lg hover:bg-green-700 transition duration-200;
+}
+
+.btn-secondary {
+  @apply w-full bg-gray-500 text-white p-3 rounded-lg hover:bg-gray-600 transition duration-200;
+}
+
+/* Centered Card Container */
+.container-box {
+  @apply bg-white p-8 rounded-xl shadow-lg w-96 text-center;
+}
+
+/* Link Styles */
+.link-text {
+  @apply text-green-600 hover:underline cursor-pointer;
+}
+
+/* Page Background Placeholder */
+.page-background {
+  @apply min-h-screen flex items-center justify-center bg-cover bg-center;
+}
