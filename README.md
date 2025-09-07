@@ -81,9 +81,9 @@ Copy this link and paste it onto your browser to use the application. It should 
 ## Running the program again
 
 ### 1. Running the Backend 
-Navigate to the frontend directory:
+Navigate to the backend directory:
 ```bash
-cd {file-path-of-cloned-repository}/store-management-system/frontend
+cd {file-path-of-cloned-repository}/store-management-system/backend
 ```
 Run the following command:
 ```bash
@@ -149,4 +149,5 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
