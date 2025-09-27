@@ -17,7 +17,7 @@ store-management-system/
 
 ---
 
-## 🧰 Required Dependencies
+## Required Dependencies
 
 Before you begin, make sure you have the following software installed on your machine:
 
@@ -28,7 +28,7 @@ Before you begin, make sure you have the following software installed on your ma
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the Monorepo
 ```bash
@@ -104,7 +104,7 @@ npm run dev
 ---
 
 
-## 🔧 Environment Variables
+## Environment Variables
 
 ### Backend (`store-management-system-backend/.env`)
 ```dotenv
@@ -122,7 +122,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 
 ---
 
-## 🛠️ Available Scripts & Commands
+## Available Scripts & Commands
 
 | Task                          | Location                                | Command                          |
 |-------------------------------|-----------------------------------------|----------------------------------|
@@ -133,7 +133,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 
 ---
 
-## 📋 Backend Tech Details
+## Backend Tech Details
 
 - **Framework**: Spring Boot 3.4
 - **Language**: Java 21
@@ -143,11 +143,12 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 
 ---
 
-## 🌐 Frontend Tech Details
+## Frontend Tech Details
 
 - **Tooling**: Vite + React + TypeScript
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
