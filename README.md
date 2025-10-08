@@ -1,5 +1,5 @@
 # Quick look
-https://jolly-bush-04a04080f.2.azurestaticapps.net/ManagerHome
+https://jolly-bush-04a04080f.2.azurestaticapps.net/
 Backend might need time to wake 
  
 # Store Management System
@@ -153,6 +153,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
 
