@@ -1,4 +1,8 @@
-﻿# Store Management System
+# Quick look
+https://jolly-bush-04a04080f.2.azurestaticapps.net/ManagerHome
+Backend might need time to wake 
+ 
+# Store Management System
 This is a guide on how to clone and run this application on your local machine
 ---
 
@@ -149,6 +153,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
 
