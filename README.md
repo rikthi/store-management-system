@@ -1,9 +1,13 @@
 # Quick look
 https://jolly-bush-04a04080f.2.azurestaticapps.net/
 Backend might need time to wake
+
 Try with:
+
 User ID: 1
+
 Email: bob@gmail.com
+
 Password: 123
  
 # Store Management System
@@ -157,6 +161,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
 
