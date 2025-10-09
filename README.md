@@ -1,6 +1,10 @@
 # Quick look
 https://jolly-bush-04a04080f.2.azurestaticapps.net/
-Backend might need time to wake 
+Backend might need time to wake
+Try with:
+User ID: 1
+Email: bob@gmail.com
+Password: 123
  
 # Store Management System
 This is a guide on how to clone and run this application on your local machine
@@ -153,6 +157,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
 
