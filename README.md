@@ -1,6 +1,6 @@
 # Quick look
 https://jolly-bush-04a04080f.2.azurestaticapps.net/
-Backend might need time to wake
+Backend might need 3-4 mins of time to spool up
 
 Try with:
 
@@ -161,6 +161,7 @@ SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 - **Styling**: Tailwind CSS
 
 ---
+
 
 
 
